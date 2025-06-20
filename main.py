@@ -2,7 +2,7 @@
 
 def greet_user():
     name = input("What's your name?")
-    print(f"Hello, {name}! welcome to the program.")
+    print(f"Hello, {name}! welcome to the program - second commit.")
 
 
  # call the function
